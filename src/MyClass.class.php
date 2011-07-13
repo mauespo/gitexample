@@ -6,5 +6,8 @@ class MyClass {
 		return 10;
 	} 
 	
+	public static getSecondCount(){
+		return 20;
+	}
 	
 }
